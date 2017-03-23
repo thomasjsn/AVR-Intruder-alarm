@@ -1,5 +1,5 @@
 Source code for project: **Intruder alarm system controller**.
 
-![Intruder alarm installed](https://uctrl.io/images/medium/611)
+![Intruder alarm installed](http://i.imgur.com/yv3qCHHl.jpg)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
