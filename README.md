@@ -2,9 +2,9 @@
 
 > A simple intruder alarm controller I build and used in my old apartment. Uses an AVR ATtiny2313 microcontroller.
 
-Project documentation available at: https://cavelab.dev/wiki/Intruder_alarm_system_controller
+Project documentation available at: https://blog.cavelab.dev/2007/12/avr-intruder-alarm-controller/
 
-![Intruder alarm system controller](https://cavelab.dev/images/thumb/a/a5/Intruder-alarm-module-installed-and-wired-41lldq.jpeg/600px-Intruder-alarm-module-installed-and-wired-41lldq.jpeg)
+![Intruder alarm system controller](https://i.logistics.cavelab.net/large/611.jpeg)
 
 Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
 
@@ -12,10 +12,10 @@ Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
 **Thomas Jensen**
 * Twitter: [@thomasjsn](https://twitter.com/thomasjsn)
 * Github: [@thomasjsn](https://github.com/thomasjsn)
-* Website: [cavelab.dev](https://cavelab.dev/wiki/User:Thomas)
+* Website: [cavelab.dev](https://cavelab.dev)
 
 ## License
 The MIT License (MIT). Please see [license file](LICENSE.txt) for more information.
 
 ---
-_This README was automatically generated using the MediaWiki API_ (`pageid:336`)
+_This README was automatically generated using µLogistics_ (`projectid:101`)
